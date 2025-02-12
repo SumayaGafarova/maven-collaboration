@@ -1,0 +1,9 @@
+# Ignore compiled classes
+target/
+*.class
+
+# Maven Wrapper files
+.mvn/
+mvnw
+mvnw.cmd
+
